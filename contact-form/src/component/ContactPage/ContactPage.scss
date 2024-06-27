@@ -1,0 +1,9 @@
+.contact {
+  @apply container;
+	&__left{
+		@apply w-1/2;
+	}
+	&__right{
+		@apply w-1/2;
+	}
+}
